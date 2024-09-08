@@ -1,5 +1,5 @@
 --SQL Retail Sales Analysis
-create database sql_project_P2;
+create database retail_db;
 DROP TABLE IF EXISTS retail_sales ;
 
 CREATE TABLE retail_sales
