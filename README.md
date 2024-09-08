@@ -4,7 +4,7 @@
 
 **Project Title**: Retail Sales Analysis  
 **Level**: Beginner  
-**Database**: `p1_retail_db`
+**Database**: `retail_db`
 
 This project showcases essential SQL skills and techniques commonly applied by data analysts to explore, clean, and analyze retail sales data. It includes setting up a retail sales database, conducting exploratory data analysis (EDA), and answering targeted business questions using SQL queries. Designed for beginners in data analysis, this project helps build a strong foundation in SQL.
 
@@ -24,7 +24,7 @@ This project showcases essential SQL skills and techniques commonly applied by d
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
-CREATE DATABASE p1_retail_db;
+CREATE DATABASE retail_db;
 
 CREATE TABLE retail_sales
 (
